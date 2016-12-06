@@ -9,14 +9,14 @@ NEVER push yours.
 
 When an user connect itself all variables are stock in $_SESSION variable.
 
-DB config template :
-$hostname = "localhost";
-$db_name = "camagru";
-$username = "root";
-$password = "root";
+DB config template : <BR>
+$hostname = "localhost"; <BR>
+$db_name = "camagru"; <BR>
+$username = "root"; <BR>
+$password = "root"; <BR>
 $option = "";
 
 # Screenshots
-<p align="center">
-  <img src="http://img4.hostingpics.net/pics/941756ScreenShot20161206at25630PM.png"/>
-</p>
+<P align="center">
+  <IMG src="http://img4.hostingpics.net/pics/941756ScreenShot20161206at25630PM.png"/>
+</P>
