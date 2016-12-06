@@ -1,12 +1,11 @@
 # Camagru
 42 School Project
 
-Camagru is an Instagram-like product with social interactions and picture    <BR>
-modifications like filters implementation. It is made of native PHP and      <BR>
-JavaScript to works and some actions with the database works with AJAX       <BR>
-integration for some SQL request. Camagru uses an authentification           <BR>
-system with accounts ans they are protected with some security requirements.
-
+Camagru is an Instagram-like product with social interactions and mofications of   <BR>
+pictures like filters implementation. It is made of native PHP and JavaScript to   <BR>
+work and some actions with the database works with the integration of AJAX for SQL <BR>
+requests. Camagru uses an authentication system with accounts that are protected   <BR>
+with some security requirements.
 
 When an user connect itself all variables are stock in $_SESSION variable.
 
