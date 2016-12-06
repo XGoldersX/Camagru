@@ -15,3 +15,8 @@ $db_name = "camagru";
 $username = "root";
 $password = "root";
 $option = "";
+
+# Screenshots
+<p align="center">
+  <img src="http://img4.hostingpics.net/pics/941756ScreenShot20161206at25630PM.png"/>
+</p>
