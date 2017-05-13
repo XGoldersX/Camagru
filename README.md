@@ -9,14 +9,6 @@ with some security requirements.
 
 When an user connect itself all variables are stock in $_SESSION variable.
 
-DB configuration is in database.php
-
-DB config template : <BR>
-$hostname = "localhost"; <BR>
-$db_name = "camagru"; <BR>
-$username = "root"; <BR>
-$password = "root"; <BR>
-$option = "";
 
 # Screenshots
 <P align="center">
